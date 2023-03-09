@@ -11,6 +11,11 @@ import Grid from '../../Components/Grid/Grid';
 import games from '../../utils/games';
 import Cart from '../../Components/Cart/Cart';
 import Footer from '../../Components/Footer/Footer';
+import Chatbot from 'react-chatbot-kit';
+import '../../Components/ChatBot/main.css'
+import config from '../../Components/ChatBot/config.js';
+import MessageParser from '../../Components/ChatBot/MessageParser.js';
+import ActionProvider from '../../Components/ChatBot/ActionProvider.js';
 
 const Browse = props => {
   const { 
@@ -169,7 +174,7 @@ const Browse = props => {
                     </button>
                   </div>
                   
-                  <div className={styles.displayStyle}>
+                  <div className={styles.displayStyle} style={{display:'none'}}>
                     <p>Display options:</p>
                     <button 
                       className={styles.displayBtn} 
@@ -213,6 +218,11 @@ const Browse = props => {
               </div>
             </div>
         </AnimatedPage>
+        <Chatbot
+        config={config}
+        messageParser={MessageParser}
+        actionProvider={ActionProvider}
+      />
         <Footer />
       </section>
     );

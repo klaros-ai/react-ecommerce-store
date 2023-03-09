@@ -6,6 +6,7 @@
     grid-auto-rows: 320px;
     grid-gap: 20px;
     padding-bottom: 50px;
+    padding-right:20vw;
 }
 
 .noGrid {
