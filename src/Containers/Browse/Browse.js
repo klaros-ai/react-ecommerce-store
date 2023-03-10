@@ -17,6 +17,7 @@ import config from '../../Components/ChatBot/config.js';
 import MessageParser from '../../Components/ChatBot/MessageParser.js';
 import ActionProvider from '../../Components/ChatBot/ActionProvider.js';
 
+
 const Browse = props => {
   const { 
           handleHover,
@@ -55,6 +56,11 @@ const Browse = props => {
     const navigate = useNavigate();
     const [landingPage, setLandingPage] = useState(false);
     const [grid, setGrid] = useState(true);
+
+    function toggleBot() {
+      var x = document.getElementsByClassName("react-chatbot-kit-chat-container");
+      x[0].style.display = "block";
+    };
 
     const handleLayoutSwitch = (e) => {
       if (e.target.id == "grid") {
@@ -218,6 +224,7 @@ const Browse = props => {
               </div>
             </div>
         </AnimatedPage>
+        <button className={styles.question} onClick={toggleBot}>?</button>
         <Chatbot
         config={config}
         messageParser={MessageParser}
