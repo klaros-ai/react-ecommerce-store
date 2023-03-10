@@ -1,9 +1,9 @@
 const games = [
     {
-        name: "Cyberpunk 2077",
+        name: "Wild Rider Layers Unisex Sneakers",
         surname: "cyberpunk",
-        price: "59.99",
-        desc: 'Cyberpunk 2077 is a continuation of the events of Cyberpunk 2020, taking an alternate path to that of Cyberpunk V3.0. The game is set in the dystopian metropolis of Night City. It is set in the Free State of Northern California. Night City is located south of San Francisco around the area of Morro Bay, CA. During Cyberpunk 2020, Night City is said to have a population of more than five million inhabitants. However, this number is suspected to be considerably larger in 2077. Following an economic collapse sometime during the early 21st century, the United States is forced to rely on large corporations to survive. These corporations deal in a wide range of areas, such as weapons, robotics, cybernetics, pharmaceuticals, communications, and biotechnology; many of these companies operate above the law. The game follows the story of V — a hired gun on the rise in Night City, the most violent and dangerous metropolis of the corporate-ruled future. A robust character creator will allow players to choose Vs gender, visual appearance, as well as historical background — all of which may influence the shape of the game. The world is inspired by the works of authors such as William Gibson (author of Neuromancer) and Phillip K Dick, whose novel Do Androids Dream of Electric Sheep? and subsequent movie adaption Blade Runner heavily influenced the creator, Mike Pondsmith, in creating the original tabletop RPG.',
+        price: "121.00",
+        desc: "With design elements inspired by the movement and motion of city life, the Wild Rider Layers Unisex Sneakers brings a fresh new dimension to the iconic Rider family. We've layered a rich mix of premium leather, suede and hairy suede onto a nylon upper to create texture and a raw edgy look that is pure street. The IMEVA midsole and rubber outsole ensure combined lightweight comfort and great traction to take you forward, further and faster through your day and beyond",
         link: 'https://www.cyberpunk.net/',
         release: '10th of December, 2020',
         platforms: 'Playstation 4, PC, Xbox Series S/X, Playstation 5, Xbox One',
@@ -14,9 +14,9 @@ const games = [
         selected: false,
         isHovered: false,
         isLiked: false,
-        rating: 78,
+        rating: 5,
         id: 0,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188604/cyberpunk_n6jitl.jpg",
+        cover:'https://lh3.googleusercontent.com/Au3Tmo5gBUJFCEth1ecbyZ92Y_7r7r5d6xr6fhxjUuoSfeUNdikvdqWpPDFmgHzotlD91SJtT3E4LOOvU-v5BsnB4XFPEPX2-QjBWEes96ng0Enmnu5biWPkvgvvoQ-tsgoSTYE8N2rsPN5Z-IkoPYSjcYcYSXC32Luw7lCep_bwzuD9rBL8x9r1CEXIg7kQDzw3qoBe3FVI1ttIodt5bumLr5efvkUlgrUIjY-PW9ssxyZr3uixFwDRqDhmfRB8f92gFGBKHfCqyzlkTZJ_D2V7Q4cWoSFY0zEia6P7Q-VYxnB1aczWnGN19_pSCun_ePp3V6Un0YXhCp9uOyza4DhdvNHjKSPc9ts94YyZ6vYyL_QLsmo7OOPt368lChHx6DKlztz1HtG1fTVhVVn_ilOlMdTRfCYNujr6SpHtxJK3fPN5yqmD8D5v2evHZ8fCWB4Bt43-d2C3Qq30OSjxuikqFH4qzP4urDS4d8BRWBHqX1607VXjbxINPiph91uTuKkls0WeccGkuXaWWBd1VBbuQyZOfuImdLP3CijEXo91C33oBxgt1mt-NE7hcBWHlhqX0GV2plAMiapEuEQf7Pdm5rnBR3WPOs8iB3vLtUa8ALRbjNDZkVBrJ_xtAL8lX35CB6AF6EDGAlU0ViraL290MDbLBqh26mmF3DWEHsNeNTfy8-CRTn6WMBHhmrvXpUcDMqDUhkSr2H5STDeXsNDdQ7g3xJdtNmhR4_4m0B0xMSO2JZGJFosd8EzOEQr2qD7CKbj-MRTlvFMWe_pbA2Z7i4XdHXfjsd_7kASDR5ynXhjXMO61CbitEMaABhT2MxeH_FIPG_vSi9XPParHUJ-w8GTCavLJEM4j8lkNBFrvgnUrkeNAPZTf_qcYkbBUWVqliaBEFydX3hztMGoPbrKBYZxdjZlZdO3FghLR6UQQnw=w381-h281-no?authuser=0',
         footage: [
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188604/cyberpunk_n6jitl.jpg",
             "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658235373/cyberpunk_1_s00vwf.jpg",
@@ -25,10 +25,10 @@ const games = [
         ]
     },
     {
-        name: "Battlefield V",
+        name: "Mercedes Kart Cat-X Tech Unisex Sneakers",
         surname: "battlefield",
         price: "29.99",
-        desc: 'The Battlefield series goes back to its roots in a never-before-seen portrayal of World War 2. Take on physical, all-out multiplayer with your squad in modes like the vast Grand Operations and the cooperative Combined Arms, or witness human drama set against global combat in the single player War Stories. As you fight in epic, unexpected locations across the globe, enjoy the richest and most immersive Battlefield yet.',
+        desc:'Premium material and tech features are given a branded boost from German engineering. The Mercedes Kart Cat-X Tech Unisex Sneakers areleant style and esteem by Mercedes-AMG Petronas Motorsport. The piece rises to the occasion with an all-leather upper. ',
         link: 'https://www.origin.com/store/battlefield/battlefield-v',
         release: '9th of November, 2018',
         platforms: 'Playstation 4, PC, Xbox Series S/X, Xbox One',
@@ -41,7 +41,7 @@ const games = [
         isLiked: false,
         rating: 71,
         id: 1,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188621/battlefield_n0gd5a.jpg",
+        cover:'https://lh3.googleusercontent.com/pjI-CNUHlj_Nj0A9ml9Bkmmy2L1pq2DQrUkKps9eXuymtzNH9SPxiurVrw2yj-XyKgYPkRoaG5UsDVygpn-ATvN9EYRu3GSLTL8FRYS5yA-FKc711m5HqYUAF3gNf3fx1Yh2qzsdQsTbO06g_J6eaKWuCO474bYJjmxVxguUhf--bsbPKXtL4Zns39ggmATQGi01uuZjdRKVzwjsGus5bS9gicXUqaZLt99BlcS7FqKIP9ReD1-qHxl5feHHY_ZEFVPbmMuZXIzy5qp7pWn6J6yGzpoqLP9i6twUfe9YgCr_vjVfZdIiFqkg_ZdVq9FDi9baHhCAomyR7Y9euOPZm-U9TfNl0XB1hlpe3a0MKbCA0zNHWLhOmpBkbFcEpDCSK0C3z7JWS-cjNIhHN1dc6-Xe5uJN1fNHopy10204yTUA407Xp7Vut0EKJtaltmrMbfQLohrNXHP_yrtIUZ4mAz2vnsyi-IoNEOLUXacqslHWdIPTMGXsKty_0Aht6yRyyE34E-9TRjXMUptmVrfDpfJeogX4C_uzdJOP1ahFIwzRSHqEm7uVfv1Qg5qmUICjWJWbFonDqGJrxifEnaSZYPqCowAdafwLacaLV4Jm3El_2IQyBfxAozDh4u0t4JQM5_S6ca4NM9lEZ-kZoqWyjm66rMXGFkALmU4_qp04ZYRwy3EDEWxbDJYefGZq8aPfIvgbo6B3OnAxEMX8CPrICyy47emxXAPkAiMXcgzduIOEYUHMR4HFeMtXmNYgXsAbsqHrv6UpJ2AtdGBwRnC-lTqXyQPkpHaxzyGZ7-4S6tICKd__hp0nRgYg3Bj6mmooCTAnQfP8I_PdJ6-ZWt4rlbrpYI0PP7xHY7TFkdpoDJ9b7jeVWmMqkt8llKVaq1MkFrbMRx-mjGnuQ5WA0ld6qge9iRGJSKtnX6sAoxy3IthKPQ=w383-h281-no?authuser=0',
         footage: [
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188621/battlefield_n0gd5a.jpg",
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658235437/battlefield_1_jpudhq.jpg",
@@ -50,10 +50,10 @@ const games = [
         ]
     },
     {
-        name: "Life is Strange",
+        name: "Jako Slip-On Men's Shoes",
         surname: "lis",
         price: "14.99",
-        desc: 'Life Is Strange is a five-part episodic game that sets out to revolutionize story-based choice and consequence games by allowing the player to rewind time and affect the past, present, and future. You are Max, a photography senior who saves her old friend Chloe by discovering she can rewind time. The pair soon find themselves exposed to the darker side of Arcadia Bay as they uncover the disturbing truth behind the sudden disappearance of a fellow student. Meanwhile, Max begins to have premonitions as she struggles to understand the implications of her power. She must quickly learn that changing the past can sometimes lead to a devastating future.',
+        desc:"The Jako Slip-On Men's Shoes are perfect for a laceless running style. Lightweight and styled for everyday wear, they feature a breathable and durable mesh upper. Layered cushioning adds comfort that goes the distance.",
         link: 'https://lifeisstrange.square-enix-games.com/',
         release: '30th of January, 2015',
         platforms: 'Playstation 4, PC, Xbox One, Xbox 360, Playstation 3',
@@ -66,7 +66,7 @@ const games = [
         isLiked: false,
         rating: 83,
         id: 2,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188606/lis_ft0puo.jpg",
+        cover:'https://lh3.googleusercontent.com/kxFMuNT01xRZxYuH8UEQNcl1KaL0DLGWigzNY88kEa36OLaCQA5aLaC2L4oVEfvNx6FN9vMaYIWTcGFoej9N80FczZSnH-mZw8MYFbFyhjutbbxNwTeKPkMWcZsADjbN2Osx72Pbr57Toe4O9x84iaZLVIxU3gV5iD_xgFBbbUP9SdsIjbMDy1Qs5rgleGoytpp8htBchb-6J_URX4v1ZAi7izZGJO3WF7I-10Rt0PWbS4dUmdGmBPA3PDQBbMKa_ZHImf8OMl_6ifSG8rlUt-sh2bxRkxan5GKaFrLeKHUvM1PCyb1QGvpV9fO6YM8DaccFKQrgiA2vgHC_GPfq4f58IwP6FkWN1SOMr2IjKRlE1bThnUHGB-9FhUZ6uVpXTNCSXBJTzjPf_lKZnTzUJgWIi3xilh7sajevRUqc5bwMlPw5HFsnCk2Xwc8ErLQEIz5lH-aZsOyezEPcClMDFMMA_ecOvx0y3ujODUNkS4BaHruOZMMWxC1ReB7hnjfQHnPVRw8bAGRDJViYi3LB0WdX86D2P74XnzaygHKTz4lodmSrOT4RYIVyiAPwhua_94rDgR4suhuoxFsD8F3XsmbMUEa_dNu4SMBakAKV48VarVlX8dlOj3Lj9wvQLg7xlhzGhxcFeS95QasTKP9qkynBmOTgKcbAz_oAeFBiBmrGHAuu5tFqPyUwVeaRcIy2JDg3DXo5NaRjGBe1uog1XkRppQJHwuX-DOVkNTTw-a8qo4gi0YEV3C558CtQrVISi-0cY7pMwYHLtvZy2S40HIHC_dmQUhhF-SL7hvDwt8R_vbOWiCcLM6F4b-viGXgLsV_Slkp_AbOp3kwCvAPQCzdF0Uaq3GnWp74iWe4sQkvWXCtzn8Vmk-85ym55T-VNvvhDpU5WZwwhIbsWqGP1iYNnk-4f0gJ-Ql-09gRFm6sEFg=w379-h281-no?authuser=0',
         footage: [
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188606/lis_ft0puo.jpg",
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236055/lis_1_rkrxt5.jpg",
@@ -75,10 +75,10 @@ const games = [
         ]
     },
     {
-        name: "Mario Kart 8: Deluxe",
+        name: "PUMA Serve Pro Lite",
         surname: "mariokart",
         price: "24.99",
-        desc: 'Hit the road with the definitive version of Mario Kart 8 and play anytime, anywhere! Race your friends or battle them in a revised battle mode on new and returning battle courses. Play locally in up to 4-player multiplayer in 1080p while playing in TV Mode. Every track from the Wii U version, including DLC, makes a glorious return. Plus, the Inklings appear as all-new guest characters, along with returning favorites, such as King Boo, Dry Bones, and Bowser Jr.!',
+        desc:  "Unisex shoes Catering to the growing consumer expectation for casual, everyday comfort, the Serve Pro Lite Trainers feature shock-absorbing support for lightweight luxury.",
         link: 'https://mariokart8deluxe.nintendo.com/',
         release: '28th of April, 2017',
         platforms: 'Nintendo Switch',
@@ -91,7 +91,7 @@ const games = [
         isLiked: false,
         rating: 84,
         id: 3,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658232678/mariokart_0_mhgbeg.jpg",
+        cover: "https://lh3.googleusercontent.com/riWwlt3sxaQIRKnHx6wJAKzpdwyGRk-dj3znAiBmk8fqPG0plR5mTJujbm2EazfjFqYi5bkW31YrUr06O1hpag22S2hY5qjC9rGb-255LPtXPNpOkuE2IaHBNOCudMAOphq9-f283rT5BNPPul7DbEFIkdw-zfMPcAYmcsaK_4mCEOumdTM-R_yHbmlaWQN_huU4r9y1LTqBPa3nh0_shiNQkOUDzsWz5c2S4pHrgRj_3REJD3XFgoUCCo4aIeN0yuKPeYShi1F0JMvI_CGprkxNXMiOKGHCl8jwny8Fr5djrvP7y50QdI9Z0TjAKApNb84WlYFYMxcte3DCy_XdrP5watQNF5mrX2mTE2qeENe_Q1IjqMrrtlIoi6aFe0zDT05Wev6KEKZVnsCsj3s14ypKZwj0rrUo0xO6QIEcD1V7J0Ive3uZeDXI7L42BY6bjUCalt3OSPxM4_stbzWgOOBDVqis7gs7Bc1ld57ZGOt2iQqmKVeG5UUuEjwH2GkwZ9d2EZ9EJvdS7XnuusgsP0WQBmNM1Oqz5V1CIZjvn-xP3lIgHM3zHOfLuX6ucOKYBCLxpEkMCv_HyNpKpMlNpk8BK8Bbqm52X26l4ht_ZEDLffRxzCvm7uxsgeHVWD4UpBQbNHkKwoZJWRRG6fdckep9E0cDf3AGZVIIm40N3HT4K6d9OHBJ8zNm5n-pi_FjRBnKgw4foZMjxLbawMyIv_stDHR9hy-MKDtRnmmhEP2dJSps8EkNKSvd0NG1SDzOAF1d0esvroLxGlZ7WPF8R9IwYchZciawFK88cE1mow3AA1XDtUbapSOLjyoVbAMBsD26thYpAJkF0l4zzx2uMREScEczWNK4fgVbyGkvgBLo-bK6Ks6DPXqQsrYxU-4OIKv826o8b6TWj2bJJd1rM6zS5_5AVjQHisFwN57gSPxgCQ=w307-h281-no?authuser=0",
         footage: [
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658232678/mariokart_0_mhgbeg.jpg",
             "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658236315/mariokart_1_heekfq.jpg",
@@ -100,10 +100,10 @@ const games = [
         ]
     },
     {
-        name: "BioShock Infinite",
+        name: "one8 Virat Kohli Basket Classice Unisex Sneakers",
         surname: "bioshockinfinite",
         price: "18.99",
-        desc: 'This first-person story-driven shooter and entry in the Bioshock franchise follows Booker DeWitt as he enters the floating independent (formerly US) city of Columbia in 1912 and attempts to retrieve a girl trapped in a tower by the citys self-proclaimed despot/prophet in order to erase his financial debt. Throughout the story, themes of violence, racism and fatalism are brought up. Viewer & User Discretion is advised.',
+        desc:"This one is for the collectors,connoisseur & extreme uber cool, the one8 Virat Kohli Basket Classic one8 V3 pays homage to the illustrious career of the legend himself ",
         link: 'https://2k.com/en-US/game/bioshock-infinite/',
         release: '26th of February, 2013',
         platforms: 'Xbox One, PlayStation 4, Linux, Xbox 360, PC, Nintendo Switch, PlayStation 3',
@@ -125,10 +125,10 @@ const games = [
         ]
     },
     {
-        name: "Anno: 1800",
+        name: "Caracal SoftFoam+Sneakers",
         surname: "anno",
         price: "12.99",
-        desc: 'Anno 1800 takes place in the 19th century at the dawn of the Industrial Age. Like other Anno games, Anno 1800 is a city-building and strategy game. While it is set in the context of colonial trade, the featured architecture is Victorian Era and the economic engine is factory labor. The core gameplay of Anno 1800 takes place in the Old World, where the needs of the citizens, workers and artisans are central to the management of production and supply chains. A parallel New World city exists, which produces products that laborers in the Old World want to purchase, thus trade routes need to be established. Unlike its colonial 18th century predecessor Anno 1701, the game has a blueprint feature that helps the player to plan out the city.',
+        desc:" Long, clean lines, a premium leather upper and a tennis-inspired silhouette make the Caracal Sneakers your go-to for sleek style, whether you're on or off the court. ",
         link: 'https://anno-union.com/',
         release: '16th of April, 2019',
         platforms: 'PC (Microsoft Windows)',
@@ -150,10 +150,10 @@ const games = [
         ]
     },
     {
-        name: "Red Dead Redemption 2",
+        name: "Mirage Mox Brightly Packed Shoes",
         surname: "rdr",
         price: "34.99",
-        desc: 'America, 1899. The end of the Wild West era has begun. After a robbery goes badly wrong in the western town of Blackwater, Arthur Morgan and the Van der Linde gang are forced to flee. With federal agents and the best bounty hunters in the nation massing on their heels, the gang must rob, steal and fight their way across the rugged heartland of America in order to survive. As deepening internal divisions threaten to tear the gang apart, Arthur must make a choice between his own ideals and loyalty to the gang who raised him.',
+        desc:"The Mirage Mox takes design cues from a 1970s pair of PUMA running shoes and transforms them with textural contrasts, pops of colour and funky futuristic elements. Inspired by illusions and the space between what's real and otherworldly, it's ready for new realities. Incorporating caution tape elements for a deconstructed approach to this season's trends, the Brightly Packed iteration features premium materials for a sophisticated silhouette that will have you rocking retro with cool confidence.",
         link: 'https://www.rockstargames.com/reddeadredemption2',
         release: '26th of October, 2018',
         platforms: 'Xbox One, PlayStation 4, PC, Google Stadia',
@@ -175,10 +175,10 @@ const games = [
         ]
     },
     {
-        name: "Horizon Zero Dawn",
+        name: "Future Rider Play On Unisex Sneakers",
         surname: "horizon",
         price: "29.99",
-        desc: 'Horizon Zero Dawn takes place in the 31st century, in a post-apocalyptic world where colossal machines dominate the land. Human civilization has regressed to tribal societies of hunters and gatherers who survive in immense forests, imposing mountain ranges, and the atmospheric ruins of their ancestors – all while the machines become increasingly powerful. The player controls Aloy, a huntress who uses her speed, cunning, and agility to stay alive and protect herself and others against the force, size, and power of the machines. The game features sci-fi and mythical elements.',
+        desc: " Keep the game going in the shoe that launched a movement, our Future Rider Play On Unisex Sneakers. This shoe is dedicated to pared-down performance, featuring a super-light nylon, suede and leather upper and our famous shock-absorbing Federbein outsole to keep you pounding the pavement in style. ",
         link: 'https://www.guerrilla-games.com/games',
         release: '28th of February, 2017',
         platforms: 'PlayStation 4, PC',
@@ -200,10 +200,10 @@ const games = [
         ]
     },
     {
-        name: "Grand Theft Auto: V",
+        name: "Anzarun Lite Unisex Sneakers",
         surname: "gtav",
         price: "39.99",
-        desc: 'Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the games three lead characters, playing all sides of the games interwoven story.',
+        desc: "The freshest look for any occasion, the Anzarun Lite Trainers are PUMA's most refined shoe yet. Featuring the breezy Anzarun DNA mesh upper, a cushy SoftFoam+ sockliner and discreet PUMA branding throughout, you're sure to look great, wherever the day takes you. ",
         link: 'https://www.rockstargames.com/gta-v',
         release: '17th of September, 2013',
         platforms: 'Xbox One, PlayStation 4, Xbox 360, PlayStation 5, PC, PlayStation 3, Xbox Series S/X',
@@ -225,10 +225,10 @@ const games = [
         ]
     },
     {
-        name: "The Elder Scrolls: Skyrim",
+        name: "Pacer Next Cage Shoes",
         surname: "skyrim",
         price: "19.99",
-        desc: 'Two hundred years have passed since the events of The Elder Scrolls IV: Oblivion, and it is now 4E 201. The High King of Skyrim has been killed, and the threat of Civil War looms over the land of Skyrim; One side wishes to secede from the weakened Third Empire, while the other wishes to remain a part of it. To make matters worse, this schism is the final event in a prophecy foretold by the Elder Scrolls that will lead to the return of the dragons under Alduin, the Nordic god of destruction. The player starts the game on a cart heading for the chopping block after being caught with the Stormcloaks in an ambush by the Imperial Legion. As the player lays their head on the chopping block, the dragon Alduin attacks. In the midst of the chaos, Hadvar, several Stormcloaks, along with their leader and fellow prisoner, Ulfric Stormcloak, assist in the players escape. The player may choose between the assistance of Ralof, the Stormcloak who arrived with Ulfric, or Hadvar, the Imperial soldier tasked with reading off the names of the prisoners being sent to their execution. After assisting and gaining the favor of Jarl Balgruuf the Greater, The player later learns that they are Dovahkiin, or Dragonborn, a person charged with the duty of defeating Alduin and the dragons. Eventually, the player meets Delphine, and Esbern, two of the last remaining Blades, and becomes the pupil of the esteemed Greybeards of High Hrothgar.',
+        desc: " With a foot-hugging mesh upper and a supportive lace-through midfoot caging system, the Pacer Next Cage has a sleek silhouette that is as ready for the gym as it is for the streets. A feather-light midsole provides superior energy return, cushioning and support, while slip-on construction adds a sock-like rather than a shoe-like feel. You wont want to leave home in anything else. ",
         link: 'https://elderscrolls.bethesda.net/de/',
         release: '10th of November, 2011',
         platforms: 'Xbox 360, PC (Microsoft Windows), PlayStation 3',
@@ -250,10 +250,10 @@ const games = [
         ]
     },
     {
-        name: "Warframe",
+        name: "PUMA x 1DER Columbus Men's Shoes",
         surname: "warframe",
         price: "5.99",
-        desc: 'Warframe situates players as members of the Tenno race, newly awoken after years of cryo-sleep into a solar system at war. Reborn into a corrupt era, the Tenno are sought by the oppressive Grineer Empire for annihilation. Warframe armor is the key to overthrowing the Grineer by providing players with unique offensive and defensive powers to explore, upgrade and master during purpose-driven radical raids.',
+        desc: " Crafted for the ones who love an active life while looking stylish, PUMA and KL Rahul bring you the Columbus Men's Shoes. Enveloping KL Rahul's bold and sophisticated style, the contrasting overlays add edge to the overall look of PUMA x 1DER Columbus Men's Shoes. Even though the PUMA and 1DER logos are subtle, they are unmissable. ",
         link: 'https://www.warframe.com/de/landing',
         release: '25th of March, 2013',
         platforms: 'Xbox One, PlayStation 4, PlayStation 5, PC, Nintendo Switch, Xbox Series S/X',
@@ -275,10 +275,10 @@ const games = [
         ]
     },
     {
-        name: "Minecraft",
+        name: "BMW M Motorsport City Rider Sneakers ",
         surname: "minecraft",
         price: "25.99",
-        desc: 'Minecraft focuses on allowing the player to explore, interact with, and modify a dynamically-generated map made of one-cubic-meter-sized blocks. In addition to blocks, the environment features plants, mobs, and items. Some activities in the game include mining for ore, fighting hostile mobs, and crafting new blocks and tools by gathering various resources found in the game. The games open-ended model allows players to create structures, creations, and artwork on various multiplayer servers or their single-player maps. Other features include redstone circuits for logic computations and remote actions, minecarts and tracks, and a mysterious underworld called the Nether. A designated but completely optional goal of the game is to travel to a dimension called the End, and defeat the ender dragon.',
+        desc: "Live life grand with the BMW M Motorsport City Rider Unisex Sneakers. Featuring the signature Rider outsole in combination with the BMW branding. The stunning design adds the edge that'll make any casual look appear out of the world ",
         link: 'https://www.minecraft.net',
         release: '15th of August, 2011',
         platforms: 'Android, Linux, Mac, PC',
@@ -298,7 +298,7 @@ const games = [
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236749/minecraft_1_vyp8bd.png",
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236744/minecraft_3_cea2dc.png"
         ]
-    },
+    },/* ,
     {
         name: "Rise of the Tomb Raider",
         surname: "riseofthetombraider",
@@ -823,7 +823,7 @@ const games = [
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238650/tombraider_2_fnhmmd.jpg",
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238650/tombraider_3_cr0yee.jpg"
         ]
-    },
+    } */,
 ]
 
 export default games;
