@@ -116,8 +116,6 @@ const NavBar = props => {
               onMouseEnter={handleHover}
               onMouseLeave={handleHover}
             >
-                <GitHub className={styles.gh} />
-                <h3>gianlucajahn</h3>
             </div>
 
             <div 
