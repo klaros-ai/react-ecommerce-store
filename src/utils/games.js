@@ -16,7 +16,7 @@ const games = [
         isLiked: false,
         rating: 5,
         id: 0,
-        cover:'https://lh3.googleusercontent.com/Au3Tmo5gBUJFCEth1ecbyZ92Y_7r7r5d6xr6fhxjUuoSfeUNdikvdqWpPDFmgHzotlD91SJtT3E4LOOvU-v5BsnB4XFPEPX2-QjBWEes96ng0Enmnu5biWPkvgvvoQ-tsgoSTYE8N2rsPN5Z-IkoPYSjcYcYSXC32Luw7lCep_bwzuD9rBL8x9r1CEXIg7kQDzw3qoBe3FVI1ttIodt5bumLr5efvkUlgrUIjY-PW9ssxyZr3uixFwDRqDhmfRB8f92gFGBKHfCqyzlkTZJ_D2V7Q4cWoSFY0zEia6P7Q-VYxnB1aczWnGN19_pSCun_ePp3V6Un0YXhCp9uOyza4DhdvNHjKSPc9ts94YyZ6vYyL_QLsmo7OOPt368lChHx6DKlztz1HtG1fTVhVVn_ilOlMdTRfCYNujr6SpHtxJK3fPN5yqmD8D5v2evHZ8fCWB4Bt43-d2C3Qq30OSjxuikqFH4qzP4urDS4d8BRWBHqX1607VXjbxINPiph91uTuKkls0WeccGkuXaWWBd1VBbuQyZOfuImdLP3CijEXo91C33oBxgt1mt-NE7hcBWHlhqX0GV2plAMiapEuEQf7Pdm5rnBR3WPOs8iB3vLtUa8ALRbjNDZkVBrJ_xtAL8lX35CB6AF6EDGAlU0ViraL290MDbLBqh26mmF3DWEHsNeNTfy8-CRTn6WMBHhmrvXpUcDMqDUhkSr2H5STDeXsNDdQ7g3xJdtNmhR4_4m0B0xMSO2JZGJFosd8EzOEQr2qD7CKbj-MRTlvFMWe_pbA2Z7i4XdHXfjsd_7kASDR5ynXhjXMO61CbitEMaABhT2MxeH_FIPG_vSi9XPParHUJ-w8GTCavLJEM4j8lkNBFrvgnUrkeNAPZTf_qcYkbBUWVqliaBEFydX3hztMGoPbrKBYZxdjZlZdO3FghLR6UQQnw=w381-h281-no?authuser=0',
+        cover:'https://i.imgur.com/GqIUQCK.png',
         footage: [
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188604/cyberpunk_n6jitl.jpg",
             "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658235373/cyberpunk_1_s00vwf.jpg",
@@ -25,7 +25,7 @@ const games = [
         ]
     },
     {
-        name: "Mercedes Kart Cat-X Tech Unisex Sneakers",
+        name: "Mercedes Unisex Sneakers",
         surname: "battlefield",
         price: "29.99",
         desc:'Premium material and tech features are given a branded boost from German engineering. The Mercedes Kart Cat-X Tech Unisex Sneakers areleant style and esteem by Mercedes-AMG Petronas Motorsport. The piece rises to the occasion with an all-leather upper. ',
@@ -41,7 +41,7 @@ const games = [
         isLiked: false,
         rating: 71,
         id: 1,
-        cover:'https://lh3.googleusercontent.com/pjI-CNUHlj_Nj0A9ml9Bkmmy2L1pq2DQrUkKps9eXuymtzNH9SPxiurVrw2yj-XyKgYPkRoaG5UsDVygpn-ATvN9EYRu3GSLTL8FRYS5yA-FKc711m5HqYUAF3gNf3fx1Yh2qzsdQsTbO06g_J6eaKWuCO474bYJjmxVxguUhf--bsbPKXtL4Zns39ggmATQGi01uuZjdRKVzwjsGus5bS9gicXUqaZLt99BlcS7FqKIP9ReD1-qHxl5feHHY_ZEFVPbmMuZXIzy5qp7pWn6J6yGzpoqLP9i6twUfe9YgCr_vjVfZdIiFqkg_ZdVq9FDi9baHhCAomyR7Y9euOPZm-U9TfNl0XB1hlpe3a0MKbCA0zNHWLhOmpBkbFcEpDCSK0C3z7JWS-cjNIhHN1dc6-Xe5uJN1fNHopy10204yTUA407Xp7Vut0EKJtaltmrMbfQLohrNXHP_yrtIUZ4mAz2vnsyi-IoNEOLUXacqslHWdIPTMGXsKty_0Aht6yRyyE34E-9TRjXMUptmVrfDpfJeogX4C_uzdJOP1ahFIwzRSHqEm7uVfv1Qg5qmUICjWJWbFonDqGJrxifEnaSZYPqCowAdafwLacaLV4Jm3El_2IQyBfxAozDh4u0t4JQM5_S6ca4NM9lEZ-kZoqWyjm66rMXGFkALmU4_qp04ZYRwy3EDEWxbDJYefGZq8aPfIvgbo6B3OnAxEMX8CPrICyy47emxXAPkAiMXcgzduIOEYUHMR4HFeMtXmNYgXsAbsqHrv6UpJ2AtdGBwRnC-lTqXyQPkpHaxzyGZ7-4S6tICKd__hp0nRgYg3Bj6mmooCTAnQfP8I_PdJ6-ZWt4rlbrpYI0PP7xHY7TFkdpoDJ9b7jeVWmMqkt8llKVaq1MkFrbMRx-mjGnuQ5WA0ld6qge9iRGJSKtnX6sAoxy3IthKPQ=w383-h281-no?authuser=0',
+        cover:'https://i.imgur.com/WMK6s6B.png',
         footage: [
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188621/battlefield_n0gd5a.jpg",
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658235437/battlefield_1_jpudhq.jpg",
@@ -66,7 +66,7 @@ const games = [
         isLiked: false,
         rating: 83,
         id: 2,
-        cover:'https://lh3.googleusercontent.com/kxFMuNT01xRZxYuH8UEQNcl1KaL0DLGWigzNY88kEa36OLaCQA5aLaC2L4oVEfvNx6FN9vMaYIWTcGFoej9N80FczZSnH-mZw8MYFbFyhjutbbxNwTeKPkMWcZsADjbN2Osx72Pbr57Toe4O9x84iaZLVIxU3gV5iD_xgFBbbUP9SdsIjbMDy1Qs5rgleGoytpp8htBchb-6J_URX4v1ZAi7izZGJO3WF7I-10Rt0PWbS4dUmdGmBPA3PDQBbMKa_ZHImf8OMl_6ifSG8rlUt-sh2bxRkxan5GKaFrLeKHUvM1PCyb1QGvpV9fO6YM8DaccFKQrgiA2vgHC_GPfq4f58IwP6FkWN1SOMr2IjKRlE1bThnUHGB-9FhUZ6uVpXTNCSXBJTzjPf_lKZnTzUJgWIi3xilh7sajevRUqc5bwMlPw5HFsnCk2Xwc8ErLQEIz5lH-aZsOyezEPcClMDFMMA_ecOvx0y3ujODUNkS4BaHruOZMMWxC1ReB7hnjfQHnPVRw8bAGRDJViYi3LB0WdX86D2P74XnzaygHKTz4lodmSrOT4RYIVyiAPwhua_94rDgR4suhuoxFsD8F3XsmbMUEa_dNu4SMBakAKV48VarVlX8dlOj3Lj9wvQLg7xlhzGhxcFeS95QasTKP9qkynBmOTgKcbAz_oAeFBiBmrGHAuu5tFqPyUwVeaRcIy2JDg3DXo5NaRjGBe1uog1XkRppQJHwuX-DOVkNTTw-a8qo4gi0YEV3C558CtQrVISi-0cY7pMwYHLtvZy2S40HIHC_dmQUhhF-SL7hvDwt8R_vbOWiCcLM6F4b-viGXgLsV_Slkp_AbOp3kwCvAPQCzdF0Uaq3GnWp74iWe4sQkvWXCtzn8Vmk-85ym55T-VNvvhDpU5WZwwhIbsWqGP1iYNnk-4f0gJ-Ql-09gRFm6sEFg=w379-h281-no?authuser=0',
+        cover:'https://i.imgur.com/s0IGDUD.png',
         footage: [
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188606/lis_ft0puo.jpg",
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236055/lis_1_rkrxt5.jpg",
@@ -75,7 +75,7 @@ const games = [
         ]
     },
     {
-        name: "PUMA Serve Pro Lite",
+        name: "PUMA Serve Lite",
         surname: "mariokart",
         price: "24.99",
         desc:  "Unisex shoes Catering to the growing consumer expectation for casual, everyday comfort, the Serve Pro Lite Trainers feature shock-absorbing support for lightweight luxury.",
@@ -91,7 +91,7 @@ const games = [
         isLiked: false,
         rating: 84,
         id: 3,
-        cover: "https://lh3.googleusercontent.com/riWwlt3sxaQIRKnHx6wJAKzpdwyGRk-dj3znAiBmk8fqPG0plR5mTJujbm2EazfjFqYi5bkW31YrUr06O1hpag22S2hY5qjC9rGb-255LPtXPNpOkuE2IaHBNOCudMAOphq9-f283rT5BNPPul7DbEFIkdw-zfMPcAYmcsaK_4mCEOumdTM-R_yHbmlaWQN_huU4r9y1LTqBPa3nh0_shiNQkOUDzsWz5c2S4pHrgRj_3REJD3XFgoUCCo4aIeN0yuKPeYShi1F0JMvI_CGprkxNXMiOKGHCl8jwny8Fr5djrvP7y50QdI9Z0TjAKApNb84WlYFYMxcte3DCy_XdrP5watQNF5mrX2mTE2qeENe_Q1IjqMrrtlIoi6aFe0zDT05Wev6KEKZVnsCsj3s14ypKZwj0rrUo0xO6QIEcD1V7J0Ive3uZeDXI7L42BY6bjUCalt3OSPxM4_stbzWgOOBDVqis7gs7Bc1ld57ZGOt2iQqmKVeG5UUuEjwH2GkwZ9d2EZ9EJvdS7XnuusgsP0WQBmNM1Oqz5V1CIZjvn-xP3lIgHM3zHOfLuX6ucOKYBCLxpEkMCv_HyNpKpMlNpk8BK8Bbqm52X26l4ht_ZEDLffRxzCvm7uxsgeHVWD4UpBQbNHkKwoZJWRRG6fdckep9E0cDf3AGZVIIm40N3HT4K6d9OHBJ8zNm5n-pi_FjRBnKgw4foZMjxLbawMyIv_stDHR9hy-MKDtRnmmhEP2dJSps8EkNKSvd0NG1SDzOAF1d0esvroLxGlZ7WPF8R9IwYchZciawFK88cE1mow3AA1XDtUbapSOLjyoVbAMBsD26thYpAJkF0l4zzx2uMREScEczWNK4fgVbyGkvgBLo-bK6Ks6DPXqQsrYxU-4OIKv826o8b6TWj2bJJd1rM6zS5_5AVjQHisFwN57gSPxgCQ=w307-h281-no?authuser=0",
+        cover:'https://i.imgur.com/FSQUfhX.png',
         footage: [
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658232678/mariokart_0_mhgbeg.jpg",
             "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658236315/mariokart_1_heekfq.jpg",
@@ -116,7 +116,7 @@ const games = [
         isLiked: false,
         rating: 86,
         id: 4,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188602/bioshockinfinite_qyo3pi.jpg",
+        cover:'https://i.imgur.com/Gikhb1Q.png',
         footage: [
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188602/bioshockinfinite_qyo3pi.jpg",
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236359/bioshockinfinite_1_vutin0.jpg",
@@ -141,7 +141,7 @@ const games = [
         isLiked: false,
         rating: 81,
         id: 5,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188622/anno_cbmzye.jpg",
+        cover:'https://i.imgur.com/QsVlljE.png',
         footage: [
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188622/anno_cbmzye.jpg",
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236405/anno_1_bpil6t.jpg",
@@ -150,7 +150,7 @@ const games = [
         ]
     },
     {
-        name: "Mirage Mox Brightly Packed Shoes",
+        name: "Mirage Mox  Shoes",
         surname: "rdr",
         price: "34.99",
         desc:"The Mirage Mox takes design cues from a 1970s pair of PUMA running shoes and transforms them with textural contrasts, pops of colour and funky futuristic elements. Inspired by illusions and the space between what's real and otherworldly, it's ready for new realities. Incorporating caution tape elements for a deconstructed approach to this season's trends, the Brightly Packed iteration features premium materials for a sophisticated silhouette that will have you rocking retro with cool confidence.",
@@ -166,7 +166,7 @@ const games = [
         isLiked: false,
         rating: 92,
         id: 6,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188613/rdr_fhqs3d.jpg",
+        cover:'https://i.imgur.com/HiCuEjP.png',
         footage: [
             "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,w_1920/v1658188613/rdr_fhqs3d.jpg",
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236494/rdr_3_euhfwh.jpg",
@@ -175,7 +175,7 @@ const games = [
         ]
     },
     {
-        name: "Future Rider Play On Unisex Sneakers",
+        name: "Future Rider  Unisex Sneakers",
         surname: "horizon",
         price: "29.99",
         desc: " Keep the game going in the shoe that launched a movement, our Future Rider Play On Unisex Sneakers. This shoe is dedicated to pared-down performance, featuring a super-light nylon, suede and leather upper and our famous shock-absorbing Federbein outsole to keep you pounding the pavement in style. ",
@@ -191,7 +191,7 @@ const games = [
         isLiked: false,
         rating: 90,
         id: 7,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188606/horizon_jzlhsd.jpg",
+        cover:'https://i.imgur.com/wY00Pa2.png',
         footage: [
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188606/horizon_jzlhsd.jpg",
             "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658236576/horizon_3_vwjcpi.jpg",
@@ -216,7 +216,7 @@ const games = [
         isLiked: false,
         rating: 90,
         id: 8,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188604/gtav_x1ccio.jpg",
+        cover: 'https://i.imgur.com/Vj51fx2.png',
         footage: [
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188604/gtav_x1ccio.jpg",
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236641/gtav_1_gkelkb.jpg",
@@ -241,7 +241,7 @@ const games = [
         isLiked: false,
         rating: 88,
         id: 9,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658584215/skyrim_js5pmg.jpg",
+        cover:'https://i.imgur.com/PipbzME.png',
         footage: [
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658584215/skyrim_js5pmg.jpg",
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658583241/skyrim_1_ludikr.jpg",
@@ -250,7 +250,7 @@ const games = [
         ]
     },
     {
-        name: "PUMA x 1DER Columbus Men's Shoes",
+        name: "PUMA x 1DER Men's Shoes",
         surname: "warframe",
         price: "5.99",
         desc: " Crafted for the ones who love an active life while looking stylish, PUMA and KL Rahul bring you the Columbus Men's Shoes. Enveloping KL Rahul's bold and sophisticated style, the contrasting overlays add edge to the overall look of PUMA x 1DER Columbus Men's Shoes. Even though the PUMA and 1DER logos are subtle, they are unmissable. ",
@@ -266,7 +266,7 @@ const games = [
         isLiked: false,
         rating: 76,
         id: 10,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188601/warframe_kghu8g.jpg",
+        cover:'https://i.imgur.com/HVCNaAp.png',
         footage: [
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188601/warframe_kghu8g.jpg",
             "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658236676/warframe_3_t2bwvx.jpg",
@@ -291,14 +291,14 @@ const games = [
         isLiked: false,
         rating: 84,
         id: 11,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188606/minecraft_iuejtm.jpg",
+        cover:'https://i.imgur.com/32eBsnm.png',
         footage: [
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188606/minecraft_iuejtm.jpg",
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236747/minecraft_2_pqo4tv.png",
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236749/minecraft_1_vyp8bd.png",
             "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236744/minecraft_3_cea2dc.png"
         ]
-    },/* ,
+    }/* ,
     {
         name: "Rise of the Tomb Raider",
         surname: "riseofthetombraider",
