@@ -153,8 +153,8 @@ const Browse = props => {
               />
 
               <div className={styles.list}>
-                <h1>Trending and interesting</h1>
-                <p>Based on player counts and ratings</p>
+                <h1>Trending</h1>
+                {/* <p>Based on player counts and ratings</p> */}
 
                 <div className={styles.applied}>
                   <div className={styles.filterList}>

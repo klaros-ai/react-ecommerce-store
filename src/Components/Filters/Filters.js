@@ -88,7 +88,7 @@ const Filters = props => {
           </div>
 
           <div className={styles.genreFilters}>
-            <h2>Genres</h2>
+            <h2>Categories</h2>
 
             <div 
               className={styles.filterDiv} 
@@ -107,7 +107,7 @@ const Filters = props => {
                       style={{ fill: (hoverState[11].hovered || currentFilter == "Action") ? "#000000" : "#fff" }} 
                     />
                  </button>
-                 Action
+                 Tennis
             </div>
 
             <div 
@@ -127,7 +127,7 @@ const Filters = props => {
                        style={{ fill: (hoverState[12].hovered || currentFilter == "Strategy") ? "#000000" : "#fff" }} 
                      />
                  </button>
-                 Strategy
+                 Running
             </div>
 
             <div 
@@ -147,7 +147,7 @@ const Filters = props => {
                        style={{ fill: (hoverState[13].hovered || currentFilter == "RPG") ? "#000000" : "#fff" }} 
                       />
                  </button>
-                 RPG
+                 Walking
             </div>
 
             <div 
@@ -167,7 +167,7 @@ const Filters = props => {
                        style={{ fill: (hoverState[14].hovered || currentFilter == "Shooter") ? "#000000" : "#fff" }} 
                       />
                  </button>
-                 Shooter
+                 Cross Trainers
             </div>
 
             <div 
@@ -187,7 +187,8 @@ const Filters = props => {
                        style={{ fill: (hoverState[15].hovered || currentFilter == "Adventure") ? "#000000" : "#fff" }} 
                       />
                  </button>
-                 Adventure
+                 Basketball Sneakers
+
             </div>
 
             <div 
