@@ -41,3 +41,7 @@ code {
   src: local("GT Ultrabold"),
    url('./Resources/fonts/walsheim/GTWalsheimPro-UltraBold.ttf') format("truetype");
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

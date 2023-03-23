@@ -5,6 +5,7 @@ import React, { useEffect, useState } from 'react';
 import Browse from './Containers/Browse/Browse';
 import GamePage from './Containers/GamePage/GamePage';
 import NotFound from './Containers/NotFound/NotFound';
+import Dashboard from './Containers/Dashboard/dashboard';
 import Home from './Containers/Home/Home';
 import { AnimatePresence } from "framer-motion";
 import filterNames from './utils/filterNames';
@@ -431,6 +432,8 @@ useEffect(() => {
                                                handleRemoveFromCart={handleRemoveFromCart}
                                                openGamePage={openGamePage}
                                             />} />
+              <Route path="/react-ecommerce-store/dashboard" element={<Dashboard
+                                  />} />
             <Route path="*" element={<NotFound 
                             cartDisplayed={cartDisplayed}
                             handleCloseCart={handleCloseCart}

@@ -1,7 +1,9 @@
 import React from 'react';
+import Dashboard from '../../Containers/Dashboard/dashboard';
 
 const MessageParser = ({ children, actions }) => {
   const parse = (message) => {
+        Dashboard.add(message)
         console.log(JSON.stringify({'prompt':message}))
         fetch('http://127.0.0.1:5000/', {
             method: 'POST',
